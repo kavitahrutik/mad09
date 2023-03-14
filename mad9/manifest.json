@@ -1,0 +1,22 @@
+{
+    "name": "Program_9",
+    "short_name": "Program_9",
+    "start_url": "/my.html",
+    "display": "fullscreen",
+    "background_color": "#ffff00",
+    "description": "A simple application for manifest",
+    "orientation": "portrait-primary",
+    "theme_color":"#2196F3",
+    "icons": [
+    {
+    "src": "/icons/rvlogo.png",
+    "sizes": "316x316",
+    "type": "image/png"
+    },
+    {
+        "src": "/icons/rvlogo.png",
+        "sizes": "316x316",
+        "type": "image/png"
+        }
+    ]
+    }
